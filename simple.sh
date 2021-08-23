@@ -19,13 +19,13 @@ read FNAME LNAME
 echo "your name is $FNAME $LNAME"
 
 # if statement 
-if [ "$NAME" = "sadi"];
+if [ "$NAME" = "sadi" ];
 then
 echo "welcome sadi"
 fi
 
 # if else 
-if [ "$NAME" = "sadi"];
+if [ "$NAME" = "sadi" ];
 then
 echo "welcome"
 else
